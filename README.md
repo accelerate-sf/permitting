@@ -24,7 +24,7 @@ This challenge aims to address the multifaceted issues faced by small businesses
 
 3. How can we create an easy-to-use process for entrepreneurs to establish their businesses in San Francisco, addressing challenges related to finding suitable commercial spaces, understanding zoning regulations, and completing required paperwork?
 
-4. What additional datasets do we need for a feasable technical solution other than what's already publicly available?
+4. What additional datasets do we need for a feasible technical solution other than what's already publicly available?
 
 ### Key Stakeholders:
 
