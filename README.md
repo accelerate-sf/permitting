@@ -42,3 +42,6 @@ This challenge aims to address the multifaceted issues faced by small businesses
 ### Expected Outcomes:
 
 Streamline the processes outlined above and provide clear documentation and citations for increased credibility. The proposed solutions should be user-centered and practical, offering actionable steps to enhance small business accessibility and simplify the interactions between entrepreneurs and city regulations.
+
+## Example Hackathon Projects
+* https://devpost.com/software/permithero
